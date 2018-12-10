@@ -1,0 +1,15 @@
+palavra 1
+palavra 2
+tam palavra 1
+tam palavra 2
+acho
+while(tam palavra 1 || acho = 0){
+	pos = i
+	for(j = 0, j<tam palavra 2, j++){
+		if(palavra2[j] != palavra1[x])
+			acho = 0
+			break
+		acho = 1
+	}
+
+}

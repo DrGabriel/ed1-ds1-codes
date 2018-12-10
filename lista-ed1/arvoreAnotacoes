@@ -1,0 +1,13 @@
+arvores = organização não linear
+arvores genealógicas
+organização de um livro
+representação da estrutura organizacional de uma instituição
+arvore tem a raiz q é o primeiro cara
+
+vantagem da arvore  = manipulação e acesso, relacionamento entre dados mais facil de representar
+
+arvore enraiza = conjunto finito de elementos denominados nós oou verticies, arvores contem sub arvores
+e as subarvores sao disjuntas
+
+arvore não tem ciclo, cada no possui so um caminho ate a raiz
+
